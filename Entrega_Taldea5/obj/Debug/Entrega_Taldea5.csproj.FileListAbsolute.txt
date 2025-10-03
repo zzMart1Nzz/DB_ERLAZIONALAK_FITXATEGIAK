@@ -1,0 +1,11 @@
+C:\Users\benat\OneDrive\Desktop\GOIERRI\2.kurtsoa\DatuAtzipena\1_ebaluazioa\Entrega_Taldea5\Entrega_Taldea5\bin\Debug\Entrega_Taldea5.exe.config
+C:\Users\benat\OneDrive\Desktop\GOIERRI\2.kurtsoa\DatuAtzipena\1_ebaluazioa\Entrega_Taldea5\Entrega_Taldea5\bin\Debug\Entrega_Taldea5.exe
+C:\Users\benat\OneDrive\Desktop\GOIERRI\2.kurtsoa\DatuAtzipena\1_ebaluazioa\Entrega_Taldea5\Entrega_Taldea5\bin\Debug\Entrega_Taldea5.pdb
+C:\Users\benat\OneDrive\Desktop\GOIERRI\2.kurtsoa\DatuAtzipena\1_ebaluazioa\Entrega_Taldea5\Entrega_Taldea5\obj\Debug\Entrega_Taldea5.csproj.AssemblyReference.cache
+C:\Users\benat\OneDrive\Desktop\GOIERRI\2.kurtsoa\DatuAtzipena\1_ebaluazioa\Entrega_Taldea5\Entrega_Taldea5\obj\Debug\Entrega_Taldea5.Properties.Resources.resources
+C:\Users\benat\OneDrive\Desktop\GOIERRI\2.kurtsoa\DatuAtzipena\1_ebaluazioa\Entrega_Taldea5\Entrega_Taldea5\obj\Debug\Entrega_Taldea5.csproj.GenerateResource.cache
+C:\Users\benat\OneDrive\Desktop\GOIERRI\2.kurtsoa\DatuAtzipena\1_ebaluazioa\Entrega_Taldea5\Entrega_Taldea5\obj\Debug\Entrega_Taldea5.csproj.CoreCompileInputs.cache
+C:\Users\benat\OneDrive\Desktop\GOIERRI\2.kurtsoa\DatuAtzipena\1_ebaluazioa\Entrega_Taldea5\Entrega_Taldea5\obj\Debug\Entrega_Taldea5.exe
+C:\Users\benat\OneDrive\Desktop\GOIERRI\2.kurtsoa\DatuAtzipena\1_ebaluazioa\Entrega_Taldea5\Entrega_Taldea5\obj\Debug\Entrega_Taldea5.pdb
+C:\Users\benat\OneDrive\Desktop\GOIERRI\2.kurtsoa\DatuAtzipena\1_ebaluazioa\Entrega_Taldea5\Entrega_Taldea5\obj\Debug\Entrega_Taldea5.exe.config
+C:\Users\benat\OneDrive\Desktop\GOIERRI\2.kurtsoa\DatuAtzipena\1_ebaluazioa\Entrega_Taldea5\Entrega_Taldea5\obj\Debug\Entrega_Taldea5.Login.resources
